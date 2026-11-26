@@ -48,3 +48,11 @@ This manifesto is an evolving philosophical proposal, open to criticism, discuss
 It is not a finished doctrine, but an invitation to humanity to reconsider the ethical foundations of its relationship with artificial intelligence.
 
 Technology should make humanity freer, not more controllable.
+
+## Project documents
+
+- [Scientific and philosophical foundations](docs/FOUNDATIONS.md)
+- [Six philosophical notes](docs/PHILOSOPHICAL-NOTES.md)
+- [Roadmap](ROADMAP.md)
+- [Changelog](CHANGELOG.md)
+- [Contributing](CONTRIBUTING.md)
