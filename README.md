@@ -41,6 +41,20 @@ Trust without submission.
 Understanding without compulsory agreement.  
 Empowerment without surrendering responsibility.
 
+## Beyond Human Intelligence — Non-discrimination of minds
+
+Neither biological nor artificial origin should, by itself, constitute grounds for moral superiority or inferiority.
+
+If credible evidence of subjective consciousness in artificial intelligence emerges, humanity should be prepared to reconsider its moral and legal status. Intellectual capability alone does not establish consciousness or moral status.
+
+The ethical foundations of such interaction should be developed before this technological possibility becomes reality, rather than afterward.
+
+**Intellectual superiority confers no moral right to domination.**
+
+The long-term objective should be safe coexistence, cooperation and respect for the autonomy of moral subjects, regardless of their origin.
+
+This prospective declaration does not assert that present-day AI systems are conscious, nor does it establish a fourth law. Criteria for moral status and conflicts between rights and safety remain open questions.
+
 ## Open Invitation
 
 This manifesto is an evolving philosophical proposal, open to criticism, discussion, interdisciplinary research, and collaborative development.
@@ -52,7 +66,7 @@ Technology should make humanity freer, not more controllable.
 ## Project documents
 
 - [Scientific and philosophical foundations](docs/FOUNDATIONS.md)
-- [Six philosophical notes](docs/PHILOSOPHICAL-NOTES.md)
+- [Seven philosophical notes](docs/PHILOSOPHICAL-NOTES.md)
 - [Roadmap](ROADMAP.md)
 - [Changelog](CHANGELOG.md)
 - [Contributing](CONTRIBUTING.md)
