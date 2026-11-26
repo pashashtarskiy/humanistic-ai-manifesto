@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased — 2026-11-26
+
+- Add the prospective declaration Beyond Human Intelligence in English and Russian.
+- Introduce the principle of non-discrimination of minds as philosophical note 007.
+- Preserve the three original laws and the published v0.1.0 release.
+
 ## 0.1.0 — 2026-11-26
 
 - Initial English and Russian manifesto: Freedom, Trust, Responsibility.
